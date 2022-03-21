@@ -7,12 +7,12 @@ Lalu
 ``npm init`` <br/>
 <br/>
 package.json
-``
+```json
 "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
   },
-``
+```
 <br/>
 
 
