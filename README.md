@@ -16,3 +16,5 @@ package.json
     "server": "nodemon backend/server.js"
   },
 ```
+
+npm install --save express-async-handler
